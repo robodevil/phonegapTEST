@@ -26,6 +26,10 @@
 
 	<icon src="icon.png" gap:role="default" />
 
+  <iPhone>
+        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>1</string></array>]]></InfoAdditions>
+    </iPhone>
+
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
