@@ -2,9 +2,9 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.robodevil.wheelofdeath"
-	version 	= "1.0.0">
+	version 	= "1.3.0">
 
-	<name>Robodevil Test</name>
+	<name>SFA Wheel of Death</name>
 
 	<description>
 		Robodevil testing abound
